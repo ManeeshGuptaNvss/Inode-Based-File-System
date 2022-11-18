@@ -1,5 +1,4 @@
 
-  
 
 # Inode based file system
 
@@ -51,5 +50,3 @@ Execution : run ```./ibfs``` to start the project.
  - While creating an empty disk a unique name will be given to it which will be used to mount it.
  - You may have multiple disks. You will open only 1 disk at a time.
 
-
-# Inode-Based-File-System
